@@ -1,4 +1,6 @@
-# Pinafore [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+# Pinafore
+
+_**Note:** This is a [C4](https://rfc.zeromq.org/spec/42/) fork of Pinafore. The rest of this file is unchanged from date of forking (2023-01-12)._
 
 _**Note:** Pinafore is unmaintained. Read [this](https://nolanlawson.com/2023/01/09/retiring-pinafore/). Original documentation follows._
 
